@@ -1,4 +1,4 @@
-# inheritance-polymorphism-C-
+# inheritance-polymorphism-C#
 A simple C# project demonstrating inheritance and polymorphism concepts.
 
 # Inheritance and Polymorphism in C#
